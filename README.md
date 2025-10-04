@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tendai Choruwa
 
-**Senior Platform & Compute Engineer | Infrastructure & Security Leader | Cloud & Service Delivery Specialist**
+**Manager, IT Operations | Infrastructure & Security Leader | Cloud & Service Delivery Specialist**
 
 📍 Johannesburg, South Africa  
 📧 [choruwa@outlook.com](mailto:choruwa@outlook.com)  
@@ -67,6 +67,23 @@ I combine **technical depth with leadership** to bridge business objectives and 
 - Consolidated 48 physical servers into 14-host VMware cluster → **40% cost reduction**  
 - Automated patching with SCCM → **40% improvement in compliance**  
 - Optimized SQL backups → recovery time cut by **60%**
+
+---
+
+## 📂 Projects
+
+These repositories showcase my technical work and ongoing initiatives in **automation**, **infrastructure management**, and **cloud architecture**:
+
+| Repository | Description | Status |
+|-------------|-------------|---------|
+| [**PowerShell-Automation-Suite**](https://github.com/tendaichoruwa/PowerShell-Automation-Suite) | Collection of PowerShell scripts for Active Directory, Intune, and server automation. | 🚧 In Progress |
+| [**Azure-DR-Playbook**](https://github.com/tendaichoruwa/Azure-DR-Playbook) | Disaster recovery and backup automation using Azure Recovery Services and Veeam. | 🧱 Planning |
+| [**Intune-Device-Compliance**](https://github.com/tendaichoruwa/Intune-Device-Compliance) | Scripts and policies to automate Intune compliance and endpoint reporting. | 🏗️ Setup Stage |
+| [**Hybrid-Network-Security**](https://github.com/tendaichoruwa/Hybrid-Network-Security) | FortiGate + Azure Firewall configurations for hybrid network protection. | 🔐 Upcoming |
+| [**VMware-Automation-Toolkit**](https://github.com/tendaichoruwa/VMware-Automation-Toolkit) | PowerCLI scripts for automating VMware infrastructure tasks. | 🔧 In Progress |
+| [**Finnix-MSP-Architecture**](https://github.com/tendaichoruwa/Finnix-MSP-Architecture) | MSP design templates and documentation for scalable client IT environments. | 📁 Ongoing |
+
+> _More repositories will be added soon showcasing automation scripts, Azure IaC deployments, and monitoring dashboards._
 
 ---
 
