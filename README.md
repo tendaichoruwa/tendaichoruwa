@@ -37,7 +37,9 @@ Each project below highlights my hands-on work — from infrastructure rebuilds 
 > - Automated patching with SCCM & PowerShell  
 > - Achieved **99.9% uptime** and **20% cost savings**  
 
-📸 *Placeholder: add network topology diagram or before/after dashboard screenshots.*
+<p align="center">
+  <img src="assets/Windows Server Migration.png" alt="Infrastructure Topology Diagram" width="800"/>
+</p>
 
 ---
 
