@@ -55,7 +55,9 @@ Each project below highlights my hands-on work — from infrastructure rebuilds 
 > - Documented DR workflows with RTO/RPO metrics  
 > - **Zero data loss** and **recovery in under 45 minutes**
 
-📸 *Placeholder: replication architecture diagram or PowerCLI automation sample.*
+<p align="center">
+  <img src="assets/vSphere Replication.png" alt="vSphere Replication Diagram" width="800"/>
+</p>
 
 ---
 
