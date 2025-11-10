@@ -38,7 +38,7 @@ Each project below highlights my hands-on work — from infrastructure rebuilds 
 > - Achieved **99.9% uptime** and **20% cost savings**  
 
 <p align="center">
-  <img src="assets/Windows Server Migration.png" alt="Infrastructure Topology Diagram" width="800"/>
+  <img src="assets/Windows Server Migration.png" alt="Infrastructure Topology Diagram" width="400"/>
 </p>
 
 ---
@@ -56,7 +56,7 @@ Each project below highlights my hands-on work — from infrastructure rebuilds 
 > - **Zero data loss** and **recovery in under 45 minutes**
 
 <p align="center">
-  <img src="assets/vSphere Replication.png" alt="vSphere Replication Diagram" width="800"/>
+  <img src="assets/vSphere Replication.png" alt="vSphere Replication Diagram" width="400"/>
 </p>
 
 ---
