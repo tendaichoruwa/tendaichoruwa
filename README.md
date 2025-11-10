@@ -97,6 +97,37 @@ Each project below highlights my hands-on work — from infrastructure rebuilds 
 
 ---
 
+### 🏢  [**SharePoint Online Portal Migration**](https://github.com/tendaichoruwa/SharePoint)
+![SharePoint](https://img.shields.io/badge/SharePoint%20Online-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
+![PowerAutomate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
+![OneDrive](https://img.shields.io/badge/OneDrive-0078D4?style=for-the-badge&logo=microsoftonedrive&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![AzureAD](https://img.shields.io/badge/Azure%20AD-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![MicrosoftTeams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white)
+![Security](https://img.shields.io/badge/ISO%2027001%20Aligned-00A859?style=for-the-badge)
+![Governance](https://img.shields.io/badge/Data%20Governance%20Enabled-4CAF50?style=for-the-badge)
+![Cloud](https://img.shields.io/badge/Cloud%20Migration%20Success-2196F3?style=for-the-badge)
+
+---
+
+> **Objective:**
+Create a modern SharePoint Online portal to replace legacy on-premises file servers, ensuring governance, collaboration, and data integrity.
+
+> **Highlights:**
+> - Conducted full inventory and permissions mapping from on-prem file shares.  
+> - Designed **SharePoint site collections** aligned to business units (Finance, HR, Operations, Projects).  
+> - Applied **Azure AD group-based access** to maintain original security posture.  
+> - Introduced **metadata-based libraries** and eliminated folder sprawl.  
+> - Automated document approval and retention workflows using **Power Automate**.  
+> - Trained end-users and department champions to drive adoption.  
+> - Established **data governance** aligned with POPIA and ISO 27001 standards.
+
+<p align="center">
+  <img src="assets/SharePoint.png" alt="SharePoint Diagram" width="400"/>
+</p>d.
+
+---
+
 ## 🧰 Technology Stack
 
 | Category | Technologies |
