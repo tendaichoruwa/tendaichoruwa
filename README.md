@@ -73,7 +73,9 @@ Each project below highlights my hands-on work — from infrastructure rebuilds 
 > - Deployed IPsec tunnels for site-to-site resilience  
 > - **70% reduction in intrusion attempts** and **80% fewer tickets**
 
-📸 *Placeholder: FortiAnalyzer dashboard or FortiGate topology map.*
+<p align="center">
+  <img src="assets/FortiGate.png" alt="FortiGate Diagram" width="400"/>
+</p>
 
 ---
 
@@ -89,7 +91,9 @@ Each project below highlights my hands-on work — from infrastructure rebuilds 
 > - Integrated hybrid Exchange Online model  
 > - Maintained **99.8% uptime** across 2,000+ users  
 
-📸 *Placeholder: DAG topology or Exchange HA dashboard.*
+<p align="center">
+  <img src="assets/Exchange.png" alt="Exchange Diagram" width="400"/>
+</p>
 
 ---
 
