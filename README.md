@@ -108,7 +108,7 @@ Each project below highlights my hands-on work — from infrastructure rebuilds 
 ![Governance](https://img.shields.io/badge/Data%20Governance%20Enabled-4CAF50?style=for-the-badge)
 ![Cloud](https://img.shields.io/badge/Cloud%20Migration%20Success-2196F3?style=for-the-badge)
 
----
+
 
 > **Objective:**
 Create a modern SharePoint Online portal to replace legacy on-premises file servers, ensuring governance, collaboration, and data integrity.
@@ -124,7 +124,7 @@ Create a modern SharePoint Online portal to replace legacy on-premises file serv
 
 <p align="center">
   <img src="assets/SharePoint.png" alt="SharePoint Diagram" width="400"/>
-</p>d.
+</p>
 
 ---
 
